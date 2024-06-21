@@ -241,6 +241,7 @@ export default {
     'Task listeners': 'Task listener',
     'In mappings': 'In mappings',
     'Set Color': 'In mappings',
+    'Set color': 'Farbe auswählen',
     '<none>': ' - ',
     'Camunda Forms': 'Camunda Formulare',
     'Before': 'Vor',
