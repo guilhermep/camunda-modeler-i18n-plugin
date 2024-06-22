@@ -144,7 +144,6 @@ export default {
     'CMMN': 'CMMN',
     'Code variable': 'Codevariable',
     'Code': 'Code',
-    'collectEntries (List<Object>)': 'Sammle Einträge (Liste<Object>)',
     'collectEntries': 'Einträge sammeln',
     'Collection': 'Sammlung',
     'Comparison operator': 'Vergleichsoperator',
