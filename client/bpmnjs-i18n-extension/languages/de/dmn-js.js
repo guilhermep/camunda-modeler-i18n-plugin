@@ -52,7 +52,7 @@ export default {
     'Collapsed Subprocess': 'Zugeklappter Teilprozess',
     'Compensation Event': 'Kompensationsereignis',
     'Complex Gateway': 'Komplexes Gateway',
-    'Conditional Event': 'Bedingungserignis',
+    'Conditional Event': 'Bedingungsereignis',
     'Conditional Flow': 'Bedingter Fluss',
     'Data Object': 'Datenobjekt',
     'Data-based Exclusive Gateway': 'Datenbasiertes exklusives Gateway (XOR)',
